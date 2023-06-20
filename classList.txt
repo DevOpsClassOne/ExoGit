@@ -3,4 +3,4 @@ voici la list des etudiants du cours de devops ecrit ton nom et enregistre
 1)nnomoko armel cedric
 2)Kingue Max
 3)Enzo cash money
-4)user1
+4)Sullivan
