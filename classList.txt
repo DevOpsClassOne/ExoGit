@@ -6,3 +6,4 @@ voici la list des etudiants du cours de devops ecrit ton nom et enregistre
 4)Sullivan
 5)Sonia
 6)julien
+7)frank
