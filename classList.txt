@@ -17,3 +17,4 @@ voici la list des etudiants du cours de devops ecrit ton nom et enregistre
 15)Audrey
 16)Lionel
 17)Last of the class
+18)Elisha
