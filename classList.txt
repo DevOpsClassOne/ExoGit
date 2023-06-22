@@ -1,7 +1,6 @@
 this is the DevOps class list write your name and save
 voici la list des etudiants du cours de devops ecrit ton nom et enregistre
-1)nnomoko armel cedric
-2)Kingue Max
+1)nnomoko armel cedric2)Kingue Max
 3)Enzo cash money
 4)Sullivan
 5)Sonia
@@ -20,3 +19,4 @@ voici la list des etudiants du cours de devops ecrit ton nom et enregistre
 18)Elisha
 19)Mariola
 20)Theo.O
+21)Magellan 
