@@ -23,3 +23,4 @@ voici la list des etudiants du cours de devops ecrit ton nom et enregistre
 22)Jervis
 23)Stephanie
 24)Yanique
+25)jean herve djomo
